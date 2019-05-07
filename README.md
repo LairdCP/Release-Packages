@@ -10,5 +10,8 @@ For an example Yocto layer to integrate the Sterling-60 Releases, Please Visit:
 For SOM60 Releases, Please Visit:
 <https://github.com/LairdCP/SOM60-Release-Packages>
 
+For IG60 Laird Linux Releases, Please Visit:
+<https://github.com/LairdCP/IG60-Laird-Linux-Release-Packages>
+
 For WB45 and WB50 Releases, Please Visit:
 <https://github.com/LairdCP/wb-manifests>

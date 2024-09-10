@@ -1,5 +1,5 @@
 # Release-Packages
-Laird Connectivity Solutions Release Packages
+Ezurio Solutions Release Packages
 
 For 60 SOM Releases, Please Visit:
 <https://github.com/LairdCP/SOM60-Release-Packages>
